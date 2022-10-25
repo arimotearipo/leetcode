@@ -1,4 +1,4 @@
-SRCS = lengthoflastword.cpp
+SRCS = plusone.cpp
 
 OBJS = $(SRCS:.cpp=.o)
 
