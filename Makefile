@@ -1,10 +1,10 @@
-SRCS = plusone.cpp
+SRCS = mergesortedarray.cpp
 
 OBJS = $(SRCS:.cpp=.o)
 
 CC = c++
 
-FLAGS = -g -fsanitize=address
+FLAGS = -g3 -fsanitize=address
 
 NAME = launchtest
 
