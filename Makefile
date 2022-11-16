@@ -1,4 +1,4 @@
-SRCS = mergesortedarray.cpp
+SRCS = validpalindrome.cpp
 
 OBJS = $(SRCS:.cpp=.o)
 
