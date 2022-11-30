@@ -1,4 +1,4 @@
-SRCS = validpalindrome.cpp
+SRCS = reverselinkedlist.cpp
 
 OBJS = $(SRCS:.cpp=.o)
 
