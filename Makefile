@@ -1,4 +1,4 @@
-SRCS = isomorphicstrings.cpp
+SRCS = singleNumber.cpp
 
 OBJS = $(SRCS:.cpp=.o)
 
