@@ -1,8 +1,8 @@
-SRCS = reverselinkedlist.cpp
+SRCS = isomorphicstrings.cpp
 
 OBJS = $(SRCS:.cpp=.o)
 
-CC = c++
+CC = c++ -std=c++11
 
 FLAGS = -g3 -fsanitize=address
 
