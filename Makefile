@@ -1,4 +1,4 @@
-SRCS = wordpattern.cpp
+SRCS = fizzbuzz.cpp
 
 OBJS = $(SRCS:.cpp=.o)
 
