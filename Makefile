@@ -1,4 +1,4 @@
-SRCS = singleNumber.cpp
+SRCS = wordpattern.cpp
 
 OBJS = $(SRCS:.cpp=.o)
 
